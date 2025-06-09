@@ -1,4 +1,4 @@
-program ejercicio9;
+program ejercicio3;
 
 const 
 	valorAlto= 'ZZZ';
