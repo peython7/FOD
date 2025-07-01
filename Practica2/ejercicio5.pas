@@ -67,7 +67,7 @@ begin
 		reset(d[i]);
 		leer(d[i],s[i]);
 	end;
-	minimo(min,d,regD);
+	minimo(min,d,s);
 	while(min.cod <> valorAlto)do begin
 		u.cod:= min.cod;
 		u.total:=0;
